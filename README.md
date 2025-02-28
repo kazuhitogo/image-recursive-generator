@@ -5,5 +5,5 @@ Claude に SVG を吐き出させ、それを PNG にして Claude に戻すこ�
 ## How to Use
 ```shell
 pip install -r requirements.txt
-python main.py --title "レオナルド・ダ・ヴィンチの描いた最期の晩餐"
+python main.py --title "書きたい絵"
 ```
